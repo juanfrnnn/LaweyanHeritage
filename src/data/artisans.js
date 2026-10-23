@@ -33,7 +33,7 @@ export const ARTISANS = [
       instagram: '@batikmahkota',
       address: 'Jl. Sayangan Kulon No. 9, Laweyan, Surakarta, Jawa Tengah 57148',
     },
-    coordinates: { lat: -7.568228, lng: 110.796335 },
+    coordinates: { lat: -7.568894933347311, lng: 110.7926358281713 },
     verified: true,
     highlights: [
       'Pelopor motif batik abstrak geometri',
@@ -55,7 +55,7 @@ export const ARTISANS = [
       instagram: '@batikputralaweyan',
       address: 'Jl. Sidoluhur No. 31, Laweyan, Surakarta, Jawa Tengah 57148',
     },
-    coordinates: { lat: -7.570549, lng: 110.792500 },
+    coordinates: { lat: -7.570341310078675, lng: 110.79488306923979 },
     verified: true,
     highlights: [
       'Spesialis batik cap presisi tinggi',
@@ -77,7 +77,7 @@ export const ARTISANS = [
       instagram: '@batikmerakmanis',
       address: 'Jl. Sidoluhur No. 19, Laweyan, Surakarta, Jawa Tengah 57148',
     },
-    coordinates: { lat: -7.570211, lng: 110.793120 },
+    coordinates: { lat: -7.570854714413195, lng: 110.79604046936446 },
     verified: true,
     highlights: [
       'Pewarnaan organik berbahan tumbuhan alami',
@@ -99,7 +99,7 @@ export const ARTISANS = [
       instagram: '@batiksogalaweyan',
       address: 'Jl. Dr. Rajiman No. 472-474, Bumi, Laweyan, Surakarta, Jawa Tengah 57148',
     },
-    coordinates: { lat: -7.570212163977057, lng: 110.79982062698592 },
+    coordinates: { lat: -7.570479110264664, lng: 110.79988846305437 },
     verified: true,
     highlights: [
       'Showroom batik tulis dan cap berkelas',
@@ -115,13 +115,13 @@ export const ARTISANS = [
       'Pusat belanja busana batik cap dan kombinasi yang bertempat di bangunan rumah kuno arsitektur heritage Laweyan dengan koleksi pakaian pria dan wanita lengkap.',
     specialization: 'Batik Cap & Fashion Heritage',
     category: 'batik-cap',
-    image: '/images/BatikOmah.png',
+    image: '/images/BatikOmah.jpg',
     contact: {
       phone: '+628122971234',
       instagram: '@omahlaweyan.batik',
       address: 'Jl. Dr. Rajiman No. 549, Laweyan, Surakarta, Jawa Tengah 57148',
     },
-    coordinates: { lat: -7.568341, lng: 110.791823 },
+    coordinates: { lat: -7.569063986616736, lng: 110.79456044274384 },
     verified: true,
     highlights: [
       'Bangunan galeri bernuansa rumah antik Jawa-Kolonial',
@@ -143,7 +143,7 @@ export const ARTISANS = [
       instagram: '@batikpuspakencana_laweyan',
       address: 'Jl. Sidoluhur No. 51, Laweyan, Surakarta, Jawa Tengah 57148',
     },
-    coordinates: { lat: -7.568850, lng: 110.793540 },
+    coordinates: { lat: -7.569984463353957, lng: 110.79316217488383 },
     verified: true,
     highlights: [
       'Ekstraksi warna alami ramah lingkungan',
