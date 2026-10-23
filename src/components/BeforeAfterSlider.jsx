@@ -69,23 +69,25 @@ export default function BeforeAfterSlider({
       aria-valuemax={100}
       aria-valuenow={Math.round(position)}
     >
-      {/* After (background) */}
+      {/* After (Wisata Bermakna - background) */}
       <div className="before-after-slider__after-wrap">
-        <div className="slider-placeholder slider-placeholder--after">
-          <p>Wisata Bermakna</p>
-          <span>Memahami sejarah, menghargai warga, mendukung pengrajin</span>
-        </div>
+        <img 
+          src="/images/wisata-bermakna.jpg" 
+          alt="Wisata Bermakna" 
+          style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+        />
       </div>
 
-      {/* Before (clipped) */}
+      {/* Before (Wisata Foto - clipped) */}
       <div
         className="before-after-slider__before-wrap"
         style={{ clipPath: `inset(0 ${100 - position}% 0 0)` }}
       >
-        <div className="slider-placeholder slider-placeholder--before">
-          <p>Wisata Foto</p>
-          <span>Datang, foto, pergi — tanpa memahami konteks di baliknya</span>
-        </div>
+        <img 
+          src="/images/wisata-foto.jpg" 
+          alt="Wisata Foto" 
+          style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+        />
       </div>
 
       {/* Handle */}

@@ -64,13 +64,12 @@ export default function HeroSection() {
 
           {/* Visual side */}
           <div className="hero__visual">
-            <div className="hero__image-placeholder">
-              <Image size={48} />
-              <p>Kampung Batik Laweyan</p>
-              <span>
-                Ganti dengan foto arsitektur berlisensi Laweyan
-              </span>
-            </div>
+            <img 
+              src="/images/hero-laweyan.jpg" 
+              alt="Arsitektur Khas Kampung Batik Laweyan" 
+              className="hero__image"
+              style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: 'var(--radius-lg)' }}
+            />
           </div>
         </div>
 
